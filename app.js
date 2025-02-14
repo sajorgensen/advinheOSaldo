@@ -1,13 +1,10 @@
   
 //exercício saldo conta
 // gere um numero aleatório de 0 a 1000 para ser o saldo da conta
-//deseje boas vindas ao usuário, e pergunte qual ele acha que é o saldo da conta, 
+//deseje boas vindas ao usuário, e pergunte qual ele acha que é o saldo da conta
 // verifique se o valor digitado é maior ou menor que o saldo atual
-//      se for maior diga que ele é otimista, e mostre o saldo da conta, 
-//      se for menor diga que ele tem sorte, e mostre o saldo da conta,
-// se o saldo for negativo, verifique se é maior ou menor que o saldo atual,
-//      se for maior diga que poderia ser pior, e mostre o saldo da conta,
-//      se for mais negativo ainda diga que ele a situação tá feia, e mostre o saldo da conta,
+//      se for maior diga que ele é otimista, e mostre o saldo da conta 
+//      se for menor diga que ele tem sorte, e mostre o saldo da conta
 //Explique para o usuário que os juros estão altíssimos, então pergunte se ele quer ver o saldo novamente
 //      se ele desejar, diga que vc gosta de jogos, por isso ele terá que adivinhar o saldo da conta novamente,
 //      caso ele deseje sair, mostre a mensagem de despedida
@@ -58,6 +55,6 @@ if (advinhar == 'sim'){
 
     alert ('Quando quiser, estarei aqui....Adios good friend!');
 }else{
-    alert ('Ahhhhhhhhhhhhhhh okkkk, até a próxima :D');}
+    alert ('Ahhhhhhhhhhhhhhhh okkkk, até a próxima :D');}
 
 
